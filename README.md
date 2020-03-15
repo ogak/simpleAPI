@@ -1,2 +1,2 @@
 # simpleAPI
-ExpressJS
+Creating simple API CRUD using ExpressJS
