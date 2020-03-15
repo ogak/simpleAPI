@@ -1,2 +1,2 @@
 # simpleAPI
-Creating simple API CRUD using ExpressJS
+Creating simple API CRUD using ExpressJS + MongoDB Atlas
